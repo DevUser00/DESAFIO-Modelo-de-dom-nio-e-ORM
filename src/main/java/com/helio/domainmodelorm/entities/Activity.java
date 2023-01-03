@@ -1,4 +1,4 @@
-package com.mdorici.domainmodelorm.entities;
+package com.helio.domainmodelorm.entities;
 
 import java.util.ArrayList;
 import java.util.HashSet;

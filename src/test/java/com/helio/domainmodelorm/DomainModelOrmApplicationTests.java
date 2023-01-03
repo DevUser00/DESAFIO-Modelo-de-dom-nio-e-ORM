@@ -1,4 +1,4 @@
-package com.mdorici.domainmodelorm;
+package com.helio.domainmodelorm;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
